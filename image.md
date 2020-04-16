@@ -1,9 +1,9 @@
-![](nodejs-task3-screenshot1.jpg)
+![](Images/nodejs-task3-screenshot1.JPG)
 
-![](nodejs-task3-screenshot2.jpg)
+![](Images/nodejs-task3-screenshot2.JPG)
 
-![](nodejs-task3-screenshot3.jpg)
+![](Images/nodejs-task3-screenshot3.JPG)
 
-![](nodejs-task3-screenshot4.jpg)
+![](Images/nodejs-task3-screenshot4.JPG)
 
-![](nodejs-task3-screenshot5.jpg)
+![](Images/nodejs-task3-screenshot5.JPG)
